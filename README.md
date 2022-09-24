@@ -11,6 +11,7 @@
 Fork and clone this repo, then run:
 
 ```console
+
 $ bundle install
 $ rails db:migrate db:seed
 ```
